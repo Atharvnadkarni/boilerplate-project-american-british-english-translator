@@ -1,4 +1,5 @@
 module.exports = {
+  "     ": "     ",
   "accessorize": "accessorise",
   "accessorized": "accessorised",
   "accessorizes": "accessorises",
